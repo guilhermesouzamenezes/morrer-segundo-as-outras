@@ -6,6 +6,10 @@ Conto de Guilherme Souza Menezes.
 
 A leitura integral está em `index.html`. O PDF está em `Morrer-segundo-as-outras_Guilherme-Souza-Menezes.pdf` e o Markdown em `Morrer-segundo-as-outras_Guilherme-Souza-Menezes.md`.
 
+## Registro
+
+DOI: https://doi.org/10.5281/zenodo.22741459
+
 ## Autoria
 
 © 2026 Guilherme Souza Menezes. Todos os direitos reservados.
